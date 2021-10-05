@@ -1,0 +1,50 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(15, 109, 93);
+}
+
+header { 
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+#Quadrado { 
+    background-color: white;
+    margin: auto;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 5px;
+    
+   
+}
+
+footer { 
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+p { 
+    text-align: center;
+}
+input { 
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    
+    margin-bottom: 5px;
+}
+
+input[type="button"] { 
+    color: white;
+    border:none;
+    background-color: teal;
+    font-weight: bold;
+}
+
+#res { 
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
