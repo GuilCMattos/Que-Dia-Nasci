@@ -1,0 +1,6 @@
+Que dia da semana eu nasci
+var d = new Date("10/06/1997");
+
+var dias = ["Domingo", "Segunda", "Terça", "Quinta", "Sexta", "Sábado"]
+console.log(d)
+console.log(dias[d.getDay()]) 
